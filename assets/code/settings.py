@@ -1,0 +1,3 @@
+import pygame
+
+WINDOW_WIDTH, WINDOW_HEIGHT = 800, 800
